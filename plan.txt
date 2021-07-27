@@ -1,0 +1,31 @@
+apk
+
+--> we need to create a reusable carousel
+--> 1. the hero carousel
+--> 2. common carousel
+--> 3. cast and crew small carousel
+
+
+
+
+//page
+-->home page
+-->movie page
+-->catogories page
+-->auth page
+-->razorpay payment gateway
+
+//plan-->how are you going to built
+-->1 .layout
+-->2.routes
+-->3.pages
+-->4.components
+
+HOC
+
+--> higher order components
+-->
+
+
+
+layout first approach
